@@ -1,0 +1,31 @@
+2024-09-03 10:29:18,225 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-03 10:29:18,225 [33mPress CTRL+C to quit[0m
+2024-09-03 10:29:18,242  * Restarting with stat
+2024-09-03 10:29:18,714  * Debugger is active!
+2024-09-03 10:29:18,714  * Debugger PIN: 627-004-373
+2024-09-03 10:29:48,574 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-03 10:29:48,582 [33mPress CTRL+C to quit[0m
+2024-09-03 10:29:48,584  * Restarting with stat
+2024-09-03 10:29:49,191  * Debugger is active!
+2024-09-03 10:29:49,204  * Debugger PIN: 627-004-373
+2024-09-03 10:33:09,417 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-03 10:33:09,417 [33mPress CTRL+C to quit[0m
+2024-09-03 10:33:09,417  * Restarting with stat
+2024-09-03 10:33:09,883  * Debugger is active!
+2024-09-03 10:33:09,883  * Debugger PIN: 627-004-373
+2024-09-03 10:33:20,866  * Detected change in 'D:\\DPIA_flask_server\\app.py', reloading
+2024-09-03 10:33:20,930  * Restarting with stat
+2024-09-03 10:33:55,194 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-09-03 10:33:55,194 [33mPress CTRL+C to quit[0m
+2024-09-03 10:33:55,194  * Restarting with stat
+2024-09-03 10:33:55,727  * Debugger is active!
+2024-09-03 10:33:55,743  * Debugger PIN: 627-004-373
+2024-09-03 10:34:30,710  * Detected change in 'd:\\DPIA_flask_server\\app.py', reloading
+2024-09-03 10:34:30,966  * Restarting with stat
+2024-09-03 10:36:19,556  * Restarting with stat
+2024-09-03 10:36:21,254  * Restarting with stat
+2024-09-03 12:34:03,923  * Restarting with stat
